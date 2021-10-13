@@ -1,0 +1,4 @@
+A C++ program that uses OOPS to make Bank accounts for user's and manage them, store the withdrawal/deposit amount, use stack data structure to list the last 5 transactions.
+
+User starts with creating an account(Saving/Current), depositing the inital money, and the program generates the unique account number. 
+Seaching an account is done with the help of User name which should be unique.
